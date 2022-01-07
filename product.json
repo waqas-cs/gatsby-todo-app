@@ -1,0 +1,72 @@
+[{
+    "id": "1",
+    "name": "Apple 1",
+    "description": "Apple description ",
+    "filename": "1.jpg",
+    "price": "79.99",
+    "category": "fruit"
+},
+{
+    "id": "2",
+    "name": "Apple 2",
+    "description": "Apple description ",
+    "filename": "2.jpg",
+    "price": "79.99",
+    "category": "fruit"
+},{
+    "id": "3",
+    "name": "Apple 3",
+    "description": "Apple description ",
+    "filename": "3.jpg",
+    "price": "79.99",
+    "category": "fruit"
+},{
+    "id": "4",
+    "name": "Apple 4",
+    "description": "Apple description ",
+    "filename": "4.jpg",
+    "price": "79.99",
+    "category": "fruit"
+},{
+    "id": "5",
+    "name": "Apple 5",
+    "description": "Apple description ",
+    "filename": "5.jpg",
+    "price": "79.99",
+    "category": "fruit"
+},{
+    "id": "6",
+    "name": "Apple 6",
+    "description": "Apple description ",
+    "filename": "6.jpg",
+    "price": "79.99",
+    "category": "fruit"
+},{
+    "id": "7",
+    "name": "Apple 7",
+    "description": "Apple description ",
+    "filename": "7.jpg",
+    "price": "79.99",
+    "category": "fruit"
+},{
+    "id": "8",
+    "name": "Apple 8",
+    "description": "Apple description ",
+    "filename": "8.jpg",
+    "price": "79.99",
+    "category": "fruit"
+},{
+    "id": "9",
+    "name": "Apple 9",
+    "description": "Apple description ",
+    "filename": "9.jpg",
+    "price": "79.99",
+    "category": "fruit"
+},{
+    "id": "10",
+    "name": "Apple 10",
+    "description": "Apple description ",
+    "filename": "10.jpg",
+    "price": "79.99",
+    "category": "fruit"
+}]
